@@ -7,7 +7,7 @@ local Game = require "game"
 local Paddle = require "paddle"
 local Menu = require 'gui'
 
-
+--hello world
 
 -- used to check if we are in debug mode : 
 local lldebugger = nil
